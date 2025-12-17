@@ -37,7 +37,7 @@ ul {list-style-type: none;}
     color: #2e2f42;
     font-size: 36px;
     line-height: 1.1;
-    letter-spacing: 0,02em;}
+    letter-spacing: 0.02em;}
 
 .section-title {text-align:center; 
     font-size: 20px; 
@@ -58,12 +58,13 @@ ul {list-style-type: none;}
 p {font-size: 16px;}
 
 .footer {background-color: #2e2f42; 
-    color: ##f4f4fd;}
+    color: #f4f4fd;}
 
 .contactes-color {background-color: #F4F4FD;}
 .contactes {background-color: #ffffff;}
 .nav {font-weight: 500; 
-    color: #2e2f42;}
+    color: #2e2f42;
+    letter-spacing: 0.02em;}
 .accent {color: #4D5AE5}
 .ws1 {font-weight: 700; 
     color: #2e2f42;
@@ -74,4 +75,6 @@ p {font-size: 16px;}
     font-family: "Raleway", sans-serif; 
     text-transform: uppercase; 
     letter-spacing: 0.03em}
-.social-links {font-style: normal;}
+.social-links {font-style: normal;
+    letter-spacing: 0.02em;}
+.section-3 {background-color: #F4F4FD;}
