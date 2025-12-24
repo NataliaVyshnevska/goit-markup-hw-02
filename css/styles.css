@@ -64,10 +64,10 @@ letter-spacing: 0.02em;}
 
 .contactes-color {background-color: #F4F4FD;}
 .contactes {background-color: #ffffff;}
-.nav a {font-weight: 500; 
-    color: #2e2f42;
+.nav {font-weight: 500; 
     letter-spacing: 0.02em;
     text-decoration: none;}
+.nav-link {color: #2e2f42;}
 .accent {color: #4D5AE5}
 .ws1 {font-weight: 700; 
     color: #2e2f42;
