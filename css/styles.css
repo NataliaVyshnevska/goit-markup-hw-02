@@ -7,12 +7,12 @@ body {
     line-height: 1.5;
 }
 
-a { text-decoration: none; 
+.link { text-decoration: none; 
     color: #434455;}
-a:hover,
-a:focus {color: #404bbf;}
+.link:hover,
+.link:focus {color: #404bbf;}
 
-button {background-color: #4d5ae5;
+.button {background-color: #4d5ae5;
     color: #ffffff;
     cursor: pointer;
     font-size:16px;
@@ -64,21 +64,35 @@ letter-spacing: 0.02em;}
 
 .contactes-color {background-color: #F4F4FD;}
 .contactes {background-color: #ffffff;}
-.nav {font-weight: 500; 
+.nav a {font-weight: 500; 
     color: #2e2f42;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    text-decoration: none;}
 .accent {color: #4D5AE5}
 .ws1 {font-weight: 700; 
     color: #2e2f42;
     font-family: "Raleway", sans-serif; 
     text-transform: uppercase; 
     letter-spacing: 0.03em;
-    line-height: 1.1;}
+    line-height: 1.1;
+    text-decoration: none;}
 .ws2 {font-weight: 700;
     font-family: "Raleway", sans-serif; 
     text-transform: uppercase; 
     letter-spacing: 0.03em;
-    line-height: 1.1;}
+    line-height: 1.1;
+    color: #F4F4FD;
+    text-decoration: none;}
 .social-links {font-style: normal;
     letter-spacing: 0.02em;}
 .section-3 {background-color: #F4F4FD;}
+
+.post {}
+
+.box {
+    display: inline;
+    width: 1.440;
+height: 72;
+padding-top: 24px;
+padding-bottom: 24px;
+margin: 30;}
