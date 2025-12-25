@@ -19,8 +19,8 @@ body {
     font-weight:500;
     line-height:1.5;
     letter-spacing: 0.04em;}
-button:hover,
-button:focus {background-color: #404bbf;
+.button:hover,
+.button:focus {background-color: #404bbf;
     color: #ffffff;}
 
 ul {list-style-type: none;}
@@ -68,7 +68,10 @@ letter-spacing: 0.02em;}
     letter-spacing: 0.02em;
     text-decoration: none;}
 .nav-link {color: #2e2f42;}
-.accent {color: #4D5AE5}
+.nav-link:hover,
+.nav-link:focus {color: #404bbf;}
+
+ .accent {color: #4D5AE5}
 .ws1 {font-weight: 700; 
     color: #2e2f42;
     font-family: "Raleway", sans-serif; 
@@ -87,12 +90,10 @@ letter-spacing: 0.02em;}
     letter-spacing: 0.02em;}
 .section-3 {background-color: #F4F4FD;}
 
-.post {}
-
 .box {
     display: inline;
-    width: 1.440;
-height: 72;
+    width: 1.440px;
+height: 72px;
 padding-top: 24px;
 padding-bottom: 24px;
-margin: 30;}
+margin: 30px;}
