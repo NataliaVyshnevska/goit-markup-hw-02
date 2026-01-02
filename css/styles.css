@@ -48,7 +48,7 @@ ul {list-style-type: none;}
 .section-title:hover,
 .section-title:focus {color: #4D5AE5;}
 
-.p {text-align:center;}
+.section-text {text-align:center;}
 
 .page-title-3 {font-size: 20px; 
     color: #2e2f42;
@@ -73,28 +73,23 @@ letter-spacing: 0.02em;}
 .nav-link:focus {color: #404bbf;}
 
 .accent {color: #4D5AE5}
-.ws1 {font-weight: 700; 
+.web-header {font-weight: 700; 
     color: #2e2f42;
     font-family: "Raleway", sans-serif; 
     text-transform: uppercase; 
     letter-spacing: 0.03em;
-    line-height: 1.1;
+    line-height: 1.16;
+    font-size: 18px;
     text-decoration: none;}
-.ws2 {font-weight: 700;
+.web-footer {font-weight: 700;
     font-family: "Raleway", sans-serif; 
     text-transform: uppercase; 
     letter-spacing: 0.03em;
-    line-height: 1.1;
+    line-height: 1.16;
+    font-size: 18px;
     color: #F4F4FD;
     text-decoration: none;}
 .social-links {font-style: normal;
     letter-spacing: 0.02em;}
-.section-3 {background-color: #F4F4FD;}
+.section-team {background-color: #F4F4FD;}
 
-.box {
-    display: inline;
-    width: 1.440px;
-height: 72px;
-padding-top: 24px;
-padding-bottom: 24px;
-margin: 0 30px;}
